@@ -1,0 +1,30 @@
+{
+  "name": "kerman",
+  "version": "0.0.1",
+  "description": "Package manager for the Kerbal Space Program",
+  "author": "Anton Prilepskiy",
+  "license": "MIT",
+  "repository": "kerman-ksp/kerman",
+  "main": "lib",
+  "bin": "bin/kerman",
+  "homepage": "https://github.com/kerman-ksp/kerman",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "keywords": [
+    "kerman"
+  ],
+  "dependencies": {
+    "camelcase": "^3.0.0",
+    "findup-sync": "^0.3.0",
+    "nopt": "^3.0.1"
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+  },
+  "files": [
+    "bin",
+    "lib"
+  ]
+}
